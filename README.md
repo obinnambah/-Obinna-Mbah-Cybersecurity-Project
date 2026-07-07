@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Obinna Mbah</h1>
-<h3 align="center">Aspiring Network Engineer | SOC Analyst | Threat Intel Enthusiast</h3>
+<h3 align="center">CyberSecurity | SOC Analyst | Threat Intel Enthusiast | Pentesting/Ethical Hacking</h3>
 
 <p align="center">
   📍 Essen, Germany &nbsp;|&nbsp; 🎓 10Alytics / Self-Taught
@@ -21,6 +21,7 @@
 - Cisco Networking
 - IP Addressing
 - Subnetting
+- Network Monitoring and Analysis
 
 ---
 
