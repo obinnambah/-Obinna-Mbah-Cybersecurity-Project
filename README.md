@@ -51,4 +51,10 @@ I enjoy ⚽ football and spend a lot of my free time building and breaking th
 
 ---
 
+### Connect with me
+
+- LinkedIn: www.linkedin.com/in/obinna-mbah-6013b01a1
+
+---
+
 <p align="center"><i>Thanks for stopping by — always learning, always building. 🚀</i></p>
