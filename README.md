@@ -40,7 +40,7 @@
 ### 🎯 Goals
 
 - 🌐 Become a skilled Network Engineer
-- 📜 CompTIA Security+
+- 📜 CompTIA Security+ Certification
 - 📜 Get CCNA Certified
 - 🛡️ Grow into a strong SOC / Threat Intel analyst
   
