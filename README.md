@@ -2,7 +2,7 @@
 <h3 align="center">CyberSecurity | SOC Analyst | Threat Intel Enthusiast | Pentesting/Ethical Hacking</h3>
 
 <p align="center">
-  📍 Essen, Germany &nbsp;|&nbsp; 🎓 10Alytics / Self-Taught
+  📍 Gelsenkirchen, Germany &nbsp;|&nbsp; 🎓 10Alytics / Self-Taught
 </p>
 
 ---
