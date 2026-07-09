@@ -1,8 +1,20 @@
 <h1 align="center">Hi 👋, I'm Obinna Mbah</h1>
-<h3 align="center">CyberSecurity | SOC Analyst | Threat Intel Enthusiast | Pentesting/Ethical Hacking</h3>
+<h3 align="center">Cybersecurity | SOC Analyst | Threat Intelligence Enthusiast | Penetration Testing | Ethical Hacking</h3>
 
 <p align="center">
   📍 Gelsenkirchen, Germany &nbsp;|&nbsp; 🎓 10Alytics / Self-Taught
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/obinna-mbah-6013b01a1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/obinna-mbah-6013b01a1" target="_blank">
+    linkedin.com/in/obinna-mbah-6013b01a1
+  </a>
 </p>
 
 ---
@@ -41,22 +53,15 @@
 
 - 🌐 Become a skilled Network Engineer
 - 📜 CompTIA Security+ Certification
-- 📜 SC-200 Certification
-- 📜 Get CCNA Certified
-- 🛡️ Grow into a strong SOC / Threat Intel analyst
-  
+- 📜 Microsoft SC-200 Certification
+- 📜 Cisco CCNA Certification
+- 🛡️ Grow into a strong SOC / Threat Intelligence Analyst
 
 ---
 
 ### ⚡ Fun Fact
 
-I enjoy ⚽ football and spend a lot of my free time building and breaking things in my own home lab.
-
----
-
-### Connect with me
-
-- LinkedIn: www.linkedin.com/in/obinna-mbah-6013b01a1
+I enjoy ⚽ football and spend a lot of my free time building and breaking things in my home lab.
 
 ---
 
