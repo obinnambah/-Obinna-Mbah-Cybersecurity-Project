@@ -10,12 +10,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/obinna-mbah-6013b01a1" target="_blank">
-    linkedin.com/in/obinna-mbah-6013b01a1
-  </a>
-</p>
-
 ---
 
 ### 🧠 About Me
