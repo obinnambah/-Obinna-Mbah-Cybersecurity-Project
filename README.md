@@ -41,6 +41,7 @@
 
 - 🌐 Become a skilled Network Engineer
 - 📜 CompTIA Security+ Certification
+- 📜 SC-200 Certification
 - 📜 Get CCNA Certified
 - 🛡️ Grow into a strong SOC / Threat Intel analyst
   
